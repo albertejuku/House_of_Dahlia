@@ -9,5 +9,4 @@ public class HouseOfDahliaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HouseOfDahliaApplication.class, args);
 	}
-
 }
